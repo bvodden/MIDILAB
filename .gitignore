@@ -1,0 +1,20 @@
+# MicroPython generated files
+*.pyc
+__pycache__/
+
+# MIDILAB runtime files (hardware/user specific, not tracked)
+settings.json
+calibration.json
+presets.json
+progressions.json
+crash.log
+reset_cause.log
+watchdog.log
+midi_error.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled bytecode
+*.mpy
